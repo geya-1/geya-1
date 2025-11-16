@@ -15,9 +15,9 @@
 
 ### 🏆 Achievements  
 - 🎓 Selected for **Amazon Summer ML School** — Top 5% acceptance  
-- 💻 Solved **500+ problems** on LeetCode (Peak Rating: **1644**)  
+- 💻 Solved **500+ problems** on LeetCode (Peak Rating: **1761**)  
 - 🧩 Solved **200+ problems** on GeeksforGeeks (**Score: 1593**, Rank: 15)  
-- 🥇 Achieved **1450 peak** rating on CodeChef  
+- 🥇 Achieved **1458 peak** rating on CodeChef  
 - 🚀 Participated in **Smart India Hackathon 2024**  
 - 🏅 Certified **Smart Coder** by Smart Interviews (Global Rank: 3,744 / 40,758)  
 - 🧑‍🏫 Selected as a **Mentor at Smart Interviews**  
