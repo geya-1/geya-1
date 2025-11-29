@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Geya</h1>
+<h3 align="center">B.Tech CSE | ML Enthusiast | Full-Stack Learner</h3>
 
-<!--
-**geya-1/geya-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 3rd year CSE student at **SVECW**
+- 🤖 Working on **Machine Learning projects** like Smart Reads
+- 🌐 Interested in **Web Development**, **Flutter**, and **AI**
+- 🎯 Goal: Cracking internships with strong DSA & Projects
+- 🌱 Currently learning **MERN Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,flutter,mysql,git,github" />
+</p>
+
+---
+
+
+
+
+### 🔗 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/geya-yallabandi/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="mailto:geyallabandi@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+> “Consistency turns beginners into champions.”
+
+---
